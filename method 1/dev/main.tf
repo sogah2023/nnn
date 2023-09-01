@@ -1,0 +1,1 @@
+# This contains the configurations of the resources to be provisioned

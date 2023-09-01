@@ -1,0 +1,1 @@
+#This contains declares the variables used 
